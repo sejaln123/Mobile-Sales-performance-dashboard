@@ -1,7 +1,7 @@
-### **Project Overview**
+# Project Overview
 This project presents an interactive **Mobile Sales Performance Dashboard** built in Power BI to analyze and monitor key business metrics. The dashboard consolidates important KPIs and visual insights to help stakeholders understand sales trends, customer behavior, product performance, and payment preferences across different regions and time periods.
 
-### **Dashboard Highlights**
+# Dashboard Highlights
 The dashboard provides a comprehensive view of sales performance through the following insights:
 Key Metrics
 Total Sales: 769M
@@ -9,7 +9,7 @@ Total Quantity Sold: 19K units
 Total Transactions: 4K
 Average Sales Value:40K
 
-### **Performance Breakdown**
+# Performance Breakdown
 * **Monthly Sales Trend:** Line chart showing quantity sold across months
 * **Sales by City:** Map visualization highlighting regional performance
 * **Sales by Brand:** Table displaying sales, units, and transactions for each brand (Apple, OnePlus, Samsung, Vivo, Xiaomi)
@@ -19,7 +19,7 @@ Average Sales Value:40K
 * **Customer Ratings:** Funnel chart showing rating distribution (1 to 5 stars)
 * **Units Sold Gauge:** Visual representation of total units sold against target
 
-### **Interactive Filters**
+# Interactive Filters
 Users can interact with the dashboard using slicers for:
 * Month
 * Brand
@@ -29,26 +29,21 @@ Users can interact with the dashboard using slicers for:
   
 These filters allow deep-dive exploration of the data from multiple perspectives.
 
-## **Objectives**
-
+# Objectives
 The main goals of this dashboard were to:
-
 * Provide a unified view of sales performance
 * Identify top-performing cities, brands, and models
 * Understand buying patterns across time periods
 * Analyze customer preferences across payment modes
 * Support faster and more accurate decision-making
 
-## **Tools & Technologies Used**
-
+# Tools & Technologies Used
 * **Power BI Desktop**
 * **Power Query** (for cleaning and transforming data)
 * **DAX** (for calculated metrics and measures)
 * **Microsoft Excel** (source data preparation)
 
-
-## **Skills Demonstrated**
-
+# Skills Demonstrated
 * Data cleaning and transformation
 * Data modeling
 * KPI creation and DAX formula writing
@@ -56,29 +51,30 @@ The main goals of this dashboard were to:
 * Storytelling through data
 * Creating interactive user experiences with slicers and filters
 
-
-## **Project Insights**
-
+# Project Insights
 From the analysis:
-
 * Certain cities and models contribute significantly to total sales
 * Sales peak around specific months and days
 * UPI and Debit Card emerged as the most preferred payment methods
 * Customer ratings indicate strong satisfaction for premium models
 * Apple and OnePlus lead in sales among all brands
-
 These insights can support marketing strategies, inventory planning, and customer engagement initiatives.
 
-## **How to Use**
-
+# How to Use
 1. Download the file
 2. Open it using **Power BI Desktop**
 3. Load the dataset 
 4. Explore the dashboard by interacting with slicers and visuals
 
-## **Future Improvements**
-
+# Future Improvements
 * Add drill-through pages for brand and model analysis
 * Create forecasting visuals using Power BI time series
 * Build a Power BI Service report with automatic refresh
 * Add a detailed profit and margin analysis page
+
+# Author
+Sejal Naik
+- Aspiring Data Analyst and Data Scientist
+- Skilled in SQL, Python, Power BI, Machine Learning.
+- 🔗 LinkedIn: https://www.linkedin.com/in/sejalnaik-/
+- 📧 Email: sejal.naik312003@gmail.com
