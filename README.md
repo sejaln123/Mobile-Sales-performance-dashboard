@@ -66,6 +66,10 @@ These insights can support marketing strategies, inventory planning, and custome
 3. Load the dataset 
 4. Explore the dashboard by interacting with slicers and visuals
 
+# Screenshots / Demos
+This is what the dashboard looks like:
+https://github.com/sejaln123/Mobile-Sales-performance-dashboard/blob/main/Dashboard_overview.jpg
+
 # Future Improvements
 * Add drill-through pages for brand and model analysis
 * Create forecasting visuals using Power BI time series
